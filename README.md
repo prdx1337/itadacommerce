@@ -12,6 +12,7 @@ This is a fullstack PERN ecommerce web application built using the following too
 - Chakra UI
 - RTK
 - RTK Query
+- Stripe
 
 # Getting Started
 To get started with this project, follow these steps:
