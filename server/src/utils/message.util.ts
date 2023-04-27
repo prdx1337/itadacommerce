@@ -1,0 +1,14 @@
+export const OK_MESSAGE = "Operation successful.";
+export const CREATED_MESSAGE = "Creation successful.";
+export const UPDATE_MESSAGE = "Update successful.";
+export const DELETE_MESSAGE = "Deletion successful.";
+export const SEARCH_MESSAGE = "Search completed.";
+export const NOTFOUND_MESSAGE = "Not found.";
+export const BADREQUEST_MESSAGE = "Bad request.";
+export const INTERNAL_SERVER_ERROR_MESSAGE = "Internal server error.";
+export const USER_EXIST = "User already exists.";
+export const SHOP_EXIST = "Shop already exists.";
+export const PRODUCT_EXIST = "Product already exists.";
+export const USER_FOUND = "User found.";
+export const SHOP_FOUND = "Shop found.";
+export const PRODUCT_FOUND = "Product found.";
